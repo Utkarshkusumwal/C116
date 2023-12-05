@@ -1,0 +1,47 @@
+.heading_div {
+    font-family : 'Potta One' , sans-serif;
+    letter-spacing : 2px;
+    background-color : aliceblue;
+}
+
+.main_div {
+    background-color: skyblue;
+    margin-top: 15px;
+}
+
+.main_div p {
+    font-family: 'Potta One' , sans-serif;
+    margin-top: 20px;
+    font-size: larger;
+}
+
+.main_div button {
+    font-family: 'Potta One' , sans-serif;
+    padding: 5px;
+    width: 15%;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.main_div h5 {
+    font-family: 'Luckiest Guy' , sans-serif;
+    margin-top: 20px;
+}
+
+.main_div h3 {
+    font-family: 'Luckiest Guy' , sans-serif;
+    margin-top: 20px;
+}
+
+.copy_right_footer {
+    line-height: 3;
+    bottom: 0;
+    margin-top: 20px;
+    padding: 5px;
+    position: fixed;
+    text-shadow: 5px 5px 5px;
+    letter-spacing: 2px;
+    background-color: white;
+    width: 100%;
+}
